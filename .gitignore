@@ -1,0 +1,7 @@
+*.txt
+*.csv
+.ipynb_checkpoints
+.DS_Store
+*.html
+*.jpg
+week7/data
